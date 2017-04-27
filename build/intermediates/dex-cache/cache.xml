@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_47e0d0a645ff237af42157b6945aa3a2828bcaf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_4348a880223b7b43c9656e9aecd1769da7ba37e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_85f5ef5d903596ed33bef598e225185be985e214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getbase-floatingactionbutton-1.10.1_395f10e8d77516253237f0f0793bd53dd14124fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d67cd2a5b89fc2d36e79a012f0fbb4f0e60303eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_ae29d92f3dde27024a29dc03cea8162d10ce3411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ad1148c36fed01f39847b9c60a970d3ce3311d8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_6f34f0005985c1cd9975584fd214c8de215858cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2888f5e619eeaf29823b7acdb44043550e65c81d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6c43d55dbdc3615fd6a0b235b9904f897ecdd1e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_7ecc2c1ce6808cf426024ebddcd12a41f39d7e7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_3cd84985cd12b5124b5779531a55ebbc9e31c7e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3c061b024e0fa37438d7b0102ae25aa16c48b6bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_5e76f2db9e42d82060de23739ace17603988018d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_9bf7b72658d4342d3ef49eb2015d450f1ca3ef94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f30e01945442c2ddcc099a7a5b9ad37a48cc6a4b">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d81c777368e9865f98444d3812262bb202e52b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b7a6bbd04a7701f109eca649021f65e138653485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fd8f24eec01702d6b2fc5435e98ac0479371ac72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d88cb1780b60f1172ac9348fd913ebfba46c42bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ee774a117d2d07206ba591ed02fa14f99f7b0e64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a608e0c74f2baf98082ea3e29edd260c82b79acc">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_001b92c208fb7bb20eb5d7372ac53ca9755f3632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_94af7f929e784faf664c099e60f09e5bc35524d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_50a3ebcffd4e0702473ac8e669952a9619b1a5a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_ba8ce91b9b3ec26ef326e7900e4a055c1148450e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_c2476feb5de8daa28883c307279304799081c90f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\practice\Movies\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\applications\practice\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_19a38733486563b2d53a4a1f6f1238d4d701a97f\classes.dex" />
+    </item>
+
+</items>

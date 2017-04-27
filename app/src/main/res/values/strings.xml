@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="openDrawer">drawer opened</string>
+    <string name="closeDrawer">drawer closed</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Movies</string>
+    <string name="slide_1_desc">Check out the latest movies out there sitting in your home</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">All Free</string>
+    <string name="slide_3_desc">Enjoy the luxury of getting to know all about movies absolutely free!!</string>
+
+    <string name="slide_4_title">Movies of every region</string>
+    <string name="slide_4_desc">Enjoy the movies of every place at any time</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string-array name="pref_entries" translatable="false">
+        <item>Popularity</item>
+        <item>Rating</item>
+        <item>Favorites</item>
+    </string-array>
+
+    <string-array name="pref_values" translatable="false">
+        <item>popularity</item>
+        <item>rating</item>
+        <item>favorites</item>
+    </string-array>
+    <string name="about1">Now see the great movies you will love and you can select them all here.</string>
+        <string name="about2">Check out the rating,release date and
+    other details about the movies you want to watch from this library which gives you free access to all of these informations.Enjoy!</string>
+    <string name="about3">So, Select the movies,call your friends and have an awesome movie night!</string>
+</resources>
